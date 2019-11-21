@@ -7,6 +7,6 @@ Multimodal speaker diarization using pre-trained audio-visual synchronization mo
 - Data set can be downloaded from http://groups.inf.ed.ac.uk/ami/download/. The data set requires MixHeadset recordings and four closeup camera recordings. 
 
 ## How to run
-- Main file is Multimodal_ReDiarization_Syncnet_FaceDetection_AMI.py You need to set some paths in this file. Additionally set the recording name to variable **AudioDataSet = IS1008a** and set closeup camera recordig to **video = Closeup1.avi**. 
+- Main file is **Multimodal_ReDiarization_Syncnet_FaceDetection_AMI.py** You need to set some paths in this file. Additionally set the recording name to variable **AudioDataSet = IS1008a** and set closeup camera recordig to **video = Closeup1.avi**. Run!
 - You need to run this code for each closeup recording (Closeup1, Closeup2, Closeup3 and Closeup4). 
 - Finally run the last couple of line of the code by making flag **FindDER = True** to acquire diarization error rate (DER). 
