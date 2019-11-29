@@ -10,3 +10,7 @@ Multimodal speaker diarization using pre-trained audio-visual synchronization mo
 - Main file is **Multimodal_ReDiarization_Syncnet_FaceDetection_AMI.py** You need to set some paths in this file. Additionally set the recording name to variable **AudioDataSet = IS1008a** and set closeup camera recordig to **video = Closeup1.avi**. Run!
 - You need to run this code for each closeup recording (Closeup1, Closeup2, Closeup3 and Closeup4). 
 - Finally run the last couple of line of the code by making flag **FindDER = True** to acquire diarization error rate (DER). 
+
+## Cite
+- Please cite this paper if you use this code. 
+**Ahmad, R.; Zubair, S.; Alquhayz, H.; Ditta, A. Multimodal Speaker Diarization Using a Pre-Trained Audio-Visual Synchronization Model. Sensors 2019, 19, 5163.**
