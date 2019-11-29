@@ -12,5 +12,5 @@ Multimodal speaker diarization using pre-trained audio-visual synchronization mo
 - Finally run the last couple of line of the code by making flag **FindDER = True** to acquire diarization error rate (DER). 
 
 ## Cite
-- Please cite this paper if you use this code. 
+- Please cite this paper if you use this code. <br />  
 **Ahmad, R.; Zubair, S.; Alquhayz, H.; Ditta, A. Multimodal Speaker Diarization Using a Pre-Trained Audio-Visual Synchronization Model. Sensors 2019, 19, 5163.**
