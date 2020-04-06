@@ -1,5 +1,5 @@
 # MultimodalDiarization
-Multimodal speaker diarization using pre-trained audio-visual synchronization model
+Multimodal speaker diarization using a pre-trained audio-visual synchronization model
 
 ## Requirements:
 - SyncNet's pre-trained model is required which can be downloaded from https://github.com/joonson/syncnet_python. Required python files from SyncNet project is already uploaded in this repository. 
